@@ -1,0 +1,19 @@
+{
+  "name": "ws-client-async-await",
+  "version": "1.0.0",
+  "description": "Library with async/await for request-response model and for connect. Decentraland supports.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikevit2008/ws-client-async-await.git"
+  },
+  "author": "Vitaly Shatilov (bikevit2008)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bikevit2008/ws-client-async-await/issues"
+  },
+  "homepage": "https://github.com/bikevit2008/ws-client-async-await#readme"
+}
