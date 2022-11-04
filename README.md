@@ -15,3 +15,5 @@ Plan for client library
 7. Probably custom handling for queue
 8. Message formats raw, binary (json already have)
 9. Custom function for pack/unpack messages
+
+Now i think do universal library and another library wrapper for decentraland
